@@ -2,3 +2,4 @@ Nama : Danniel Efendi
 NIM  : 2702274463 
 Semester : 4
 Jurusan  : Computer Science
+Kota Asal : Medan
